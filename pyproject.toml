@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "spelling_bee"
+version = "0.1.0"
+description = "Solver for NYT style spelling bee game"
+authors = ["Bipin Lekhak"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+black = "^21.7b0"
+isort = "^5.9.3"
+flake8 = "^3.9.2"
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
