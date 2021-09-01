@@ -41,10 +41,9 @@ It is based on python.
 
  The `dummy_text.txt` for this file will be:
 
-     ```
      nkrdby
      o
-     ```
+
 
 
 3.   Run the script:
